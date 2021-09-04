@@ -9,3 +9,6 @@ Line6
 feature line1
 feature line2
 feature line3
+
+conflict line1
+conflict line2
