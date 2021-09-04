@@ -12,3 +12,5 @@ feature line3
 
 conflict line1
 conflict line2
+conflict line3
+conflict line4
